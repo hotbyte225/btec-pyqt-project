@@ -1,0 +1,196 @@
+{
+    "products": [
+        {
+            "id": 6,
+            "name": "Changyutgich filtri",
+            "category": "Tozalash uskunalari",
+            "price": "2100",
+            "status": "Mavjud",
+            "stock": 16
+        },
+        {
+            "id": 7,
+            "name": "Mini changyutgich",
+            "category": "Tozalash uskunalari",
+            "price": "5800",
+            "status": "Mavjud",
+            "stock": 5
+        },
+        {
+            "id": 8,
+            "name": "Pol tozalash apparati",
+            "category": "Tozalash uskunalari",
+            "price": "7600",
+            "status": "Mavjud emas",
+            "stock": 0
+        },
+        {
+            "id": 11,
+            "name": "Elektr isitgich",
+            "category": "Isitish va sovitish qurilmalari",
+            "price": "6400",
+            "status": "Mavjud",
+            "stock": 5
+        },
+        {
+            "id": 12,
+            "name": "Ventilyator",
+            "category": "Isitish va sovitish qurilmalari",
+            "price": "3700",
+            "status": "Mavjud",
+            "stock": 14
+        },
+        {
+            "id": 13,
+            "name": "Mini konditsioner",
+            "category": "Isitish va sovitish qurilmalari",
+            "price": "9800",
+            "status": "Mavjud emas",
+            "stock": 0
+        },
+        {
+            "id": 14,
+            "name": "Havo namlagich",
+            "category": "Isitish va sovitish qurilmalari",
+            "price": "4500",
+            "status": "Mavjud",
+            "stock": 11
+        },
+        {
+            "id": 15,
+            "name": "Havo sovutgich",
+            "category": "Isitish va sovitish qurilmalari",
+            "price": "7200",
+            "status": "Mavjud",
+            "stock": 6
+        },
+        {
+            "id": 16,
+            "name": "Soch quritgich",
+            "category": "Shaxsiy parvarish qurilmalari",
+            "price": "2900",
+            "status": "Mavjud",
+            "stock": 18
+        },
+        {
+            "id": 17,
+            "name": "Soch tekislagich",
+            "category": "Shaxsiy parvarish qurilmalari",
+            "price": "3600",
+            "status": "Mavjud",
+            "stock": 13
+        },
+        {
+            "id": 18,
+            "name": "Elektr soqol olgich",
+            "category": "Shaxsiy parvarish qurilmalari",
+            "price": "5100",
+            "status": "Mavjud",
+            "stock": 8
+        },
+        {
+            "id": 19,
+            "name": "Massaj apparati",
+            "category": "Shaxsiy parvarish qurilmalari",
+            "price": "6800",
+            "status": "Mavjud emas",
+            "stock": 0
+        },
+        {
+            "id": 20,
+            "name": "Yuz tozalagich",
+            "category": "Shaxsiy parvarish qurilmalari",
+            "price": "4300",
+            "status": "Mavjud",
+            "stock": 10
+        },
+        {
+            "id": 21,
+            "name": "Aqlli lampochka",
+            "category": "Aqlli uy texnikasi",
+            "price": "2500",
+            "status": "Mavjud",
+            "stock": 18
+        },
+        {
+            "id": 22,
+            "name": "Aqlli rozetka",
+            "category": "Aqlli uy texnikasi",
+            "price": "3100",
+            "status": "Mavjud",
+            "stock": 14
+        },
+        {
+            "id": 23,
+            "name": "Aqlli datchik",
+            "category": "Aqlli uy texnikasi",
+            "price": "3900",
+            "status": "Mavjud",
+            "stock": 10
+        },
+        {
+            "id": 25,
+            "name": "Aqlli signalizatsiya",
+            "category": "Aqlli uy texnikasi",
+            "price": "9100",
+            "status": "Mavjud emas",
+            "stock": 0
+        },
+        {
+            "id": 26,
+            "name": "Oshxona taymeri",
+            "category": "Oshxona texnikasi",
+            "price": "1800",
+            "status": "Mavjud",
+            "stock": 30
+        },
+        {
+            "id": 27,
+            "name": "Mini tarozi",
+            "category": "Oshxona texnikasi",
+            "price": "2600",
+            "status": "Mavjud",
+            "stock": 21
+        },
+        {
+            "id": 28,
+            "name": "Changyutgich cho\u2018tkasi",
+            "category": "Tozalash uskunalari",
+            "price": "1900",
+            "status": "Mavjud",
+            "stock": 28
+        },
+        {
+            "id": 29,
+            "name": "Aqlli termometr",
+            "category": "Aqlli uy texnikasi",
+            "price": "3400",
+            "status": "Mavjud",
+            "stock": 12
+        },
+        {
+            "id": 30,
+            "name": "PEch",
+            "category": "Isitish va sovitish qurilmalari",
+            "price": 0,
+            "stock": 12,
+            "status": "mavjud"
+        },
+        {
+            "id": 31,
+            "name": "Idish yuvish",
+            "category": "Oshxona texnikasi",
+            "price": 2000,
+            "stock": 22,
+            "status": "Mavjud"
+        },
+        {
+            "id": 32,
+            "name": "Shamol xaydagich",
+            "category": "Isitish va sovitish qurilmalari",
+            "price": 1500,
+            "stock": 20,
+            "status": "Mavjud"
+        }
+    ]
+}

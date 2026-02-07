@@ -1,0 +1,65 @@
+{
+    "receipts": [
+        {
+            "id": 1,
+            "customer": {
+                "name": "SALAYEV ZUFAR",
+                "phone": "+998901223445",
+                "address": "Toshkent shaxri",
+                "membership": "Business",
+                "payment_type": "Online to‘lov"
+            },
+            "items": [
+                {
+                    "name": "Aqlli lampochka",
+                    "price": 2500.0,
+                    "qty": 1
+                },
+                {
+                    "name": "Aqlli rozetka",
+                    "price": 3100.0,
+                    "qty": 2
+                },
+                {
+                    "name": "Aqlli datchik",
+                    "price": 3900.0,
+                    "qty": 2
+                },
+                {
+                    "name": "Aqlli termometr",
+                    "price": 3400.0,
+                    "qty": 1
+                }
+            ],
+            "total": 18507.0,
+            "payment_type": "Online to‘lov",
+            "delivery_type": "Shahar bo‘ylab",
+            "delivery_price": 0,
+            "point": 8,
+            "date": "2026-01-25 01:13"
+        },
+        {
+            "id": 2,
+            "customer": {
+                "name": "SAM",
+                "phone": "+998901234535",
+                "address": "Toshkent viloyat",
+                "membership": "Gold",
+                "payment_type": "Bank karta"
+            },
+            "items": [
+                {
+                    "name": "Bug‘li tozalagich",
+                    "price": 8200.0,
+                    "qty": 1
+                }
+            ],
+            "total": 8036.0,
+            "payment_type": "Bank karta",
+            "delivery_type": "Shahar bo‘ylab",
+            "delivery_price": 0,
+            "point": 6,
+            "date": "2026-01-25 01:20"
+        }
+    ]
+}

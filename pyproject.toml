@@ -1,0 +1,5 @@
+[project]
+name = "PySide Widgets Project"
+
+[tool.pyside6-project]
+files = ["about_membership.py", "about_membership.ui", "add_product.py", "add_product.ui", "admin_login.py", "admin_login.ui", "admin_menu.py", "admin_menu.ui", "cartWindow.py", "checkout.py", "checkout.ui", "contact.py", "contact.ui", "form.ui", "mainwindow.py", "receipt.py", "receipt.ui", "receipt_history.py", "receipt_manager.py", "recipt_history.ui", "shopping_cart.ui"]
