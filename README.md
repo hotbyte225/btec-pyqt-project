@@ -70,3 +70,10 @@ The application interface is built using **PyQt**, providing:
 2. Install required library:
 ```bash
 pip install pyqt5
+
+```
+3. Run the application:
+```bash
+python mainwindow.py
+
+```
