@@ -10,7 +10,9 @@
 
 ![Main Window](screenshots/mainmenu.png)
 ![receipt](screenshots/reciept.png)
-
+![membership](screenshots/membership.png)
+![admin login](screenshots/admin_login.png)
+![admin panel](screenshots/admin_panel.png)
 ---
 
 
