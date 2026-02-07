@@ -1,7 +1,6 @@
 # 🚀 Tech House Management System (PyQt Project)
 
 
-📸 Screenshots of the application are provided below.
 
 ---
 
