@@ -9,7 +9,7 @@
 > Screenshots can be found in the `screenshots/` folder and are displayed here:
 
 ![Main Window](screenshots/mainmenu.png)
-![Second Page](screenshots/second_page.png)
+![receipt](screenshots/reciept.png)
 
 ---
 
