@@ -66,3 +66,8 @@ The application interface is built using **PyQt**, providing:
 - Event handling (clicks, actions)
 - Responsive and clean UI design
 
+## ▶️ How to Run the Project
+1. Make sure **Python** is installed
+2. Install required library:
+```bash
+pip install pyqt5
