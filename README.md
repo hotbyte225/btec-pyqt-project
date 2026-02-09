@@ -34,7 +34,6 @@ The main goal of the project is to demonstrate **Object-Oriented Programming (OO
 ## ✨ Key Features
 ✅ User-friendly graphical interface  
 ✅ OOP-based architecture  
-✅ Clean and readable code structure  
 ✅ Real-time interaction via GUI  
 ✅ Modular and scalable design  
 
